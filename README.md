@@ -35,7 +35,7 @@ This project demonstrates:
 ---
 
 ## 🔹 Live Demo
-You can view the website live by opening `index.html` in your browser.
+You can view the website live is here https://divybeats-l1id.onrender.com/
 
 ---
 
